@@ -303,6 +303,13 @@ body {
     color: white;
 }
 
+#tablaUsuarios thead th{
+background-color: black;
+color: white;
+text-align: center;
+vertical-align: middle;
+}
+
 
 /* RESPONSIVE */
 
